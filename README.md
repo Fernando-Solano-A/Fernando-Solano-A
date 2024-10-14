@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🌱 I’m currently learning HTML, CSS, Javascript and PHP.
+- - 🔭 I’m currently working on a web-application to manage personal finances. 
 
 <!--
 **Fernando-Solano-A/Fernando-Solano-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
